@@ -18,6 +18,5 @@ I build full-stack web applications end-to-end — from architecture to deployme
 **Experience:** React Developer Intern @ Mindbowser Pvt. Ltd. (Jan–Feb 2025)
 
 📧 priyakumari14703@gmail.com
-🔗 https://www.linkedin.com/in/priya-kumari-888356215/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdar%2BtT8%2BQVKDDliYABNLSQ%3D%3D
 
 Open to Full Stack / MERN Developer roles — Pune, Bangalore, Remote.
